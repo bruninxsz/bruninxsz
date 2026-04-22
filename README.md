@@ -60,6 +60,7 @@ Sistema completo para criação e gestão de campanhas sociais com autenticaçã
 
 🔹 **SenaiEPIControl**
 Sistema completo de controle de Epis, contendo funcionalidades de cadastro e login, hierarquização de classes, visualização de estatísticas, controle de equipamentos, registro de entregas e devoluções de Epis e cadastro de Epis.
+👉 [https://github.com/bruninxsz/SenaiEPIControl](https://github.com/bruninxsz/SenaiEPIControl)
 
 ---
 
@@ -81,7 +82,7 @@ Sistema completo de controle de Epis, contendo funcionalidades de cadastro e log
 
 ## 📫 Contato
 
-* 💼 LinkedIn: in/brunohenriquesp
+* 💼 LinkedIn: https://linkedin.com/in/brunohenriquesp
 * 📧 Email: brunohsp0306@gmail.com
 
 ---
