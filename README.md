@@ -1,16 +1,106 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Bruno;Desenvolvedor+em+formação;Node.js+%7C+Vue.js+%7C+Supabase;Sempre+aprendendo+algo+novo+🚀">
+</p>
 
-<!--
-**bruninxsz/bruninxsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bruninxsz&color=blue" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou o Bruno
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estagiário em Suporte Técnico  
+🎓 SENAI — Análise e Desenvolvimento de Sistemas  
+🚀 Focado em desenvolvimento web e evolução constante  
+
+---
+
+## 👨‍💻 Sobre mim
+```js
+const bruno = {
+  nome: "Bruno Pereira",
+  localização: "São Paulo - BR",
+  cargo: "Estagiário em Suporte Técnico",
+  foco: "Desenvolvimento Web",
+  objetivo: "Evoluir como desenvolvedor e construir soluções que gerem impacto 🚀",
+  mentalidade: "Aprendizado contínuo e resolução de problemas"
+}
+````
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Front-end
+
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### ⚙️ Back-end
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🗄️ Banco de Dados
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### ☕ Outras tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+
+### 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Gestor de Campanhas Sociais**
+Sistema completo para criação e gestão de campanhas sociais com autenticação de usuários e CRUD.
+👉 [https://github.com/bruninxsz/Gestor-Campanhas-Sociais](https://github.com/bruninxsz/Gestor-Campanhas-Sociais)
+
+🔹 **SenaiEPIControl**
+Sistema completo de controle de Epis, contendo funcionalidades de cadastro e login, hierarquização de classes, visualização de estatísticas, controle de equipamentos, registro de entregas e devoluções de Epis e cadastro de Epis.
+
+---
+
+## 🚧 Atualmente estudando
+
+* Vue.js avançado
+* Integração com APIs
+* Boas práticas de back-end
+* Estruturação de projetos fullstack
+
+---
+
+## 📊 Estatísticas
+
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bruninxsz\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Projetos Online
+
+
+* 🔗 https://senai-epi-control.vercel.app/
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: in/brunohenriquesp
+* 📧 Email: brunohsp0306@gmail.com
+
+---
+
+## ⚡ Sobre mim
+
+Gosto de aprender na prática, resolver problemas e evoluir constantemente como desenvolvedor. Atualmente atuando como estagiário, buscando crescer profissionalmente e contribuir com soluções reais.
+
+:contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, ou :contentReference[oaicite:2]{index=2} 
+
+
+
