@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Bruno;Desenvolvedor+em+formação;Node.js+%7C+Vue.js+%7C+Supabase;Sempre+aprendendo+algo+novo+🚀">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bruninxsz&color=blue" alt="Profile views" />
-</p>
-
 # 👋 Olá, eu sou o Bruno
 
 💻 Estagiário em Suporte Técnico  
