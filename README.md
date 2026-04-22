@@ -96,7 +96,5 @@ Tenho interesse em criar sistemas completos, desde a interface até a lógica de
 
 Valorizo código limpo, organização e soluções bem pensadas para problemas reais.
 
-:contentReference[oaicite:2]{index=2} 
-
 
 
