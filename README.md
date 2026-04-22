@@ -72,12 +72,6 @@ Sistema completo de controle de Epis, contendo funcionalidades de cadastro e log
 
 ---
 
-## 📊 Estatísticas
-
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bruninxsz\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🌐 Projetos Online
 
 
@@ -102,7 +96,7 @@ Tenho interesse em criar sistemas completos, desde a interface até a lógica de
 
 Valorizo código limpo, organização e soluções bem pensadas para problemas reais.
 
-:contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, ou :contentReference[oaicite:2]{index=2} 
+:contentReference[oaicite:2]{index=2} 
 
 
 
