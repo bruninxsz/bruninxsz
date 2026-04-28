@@ -11,7 +11,7 @@
 const bruno = {
   nome: "Bruno Pereira",
   localização: "São Paulo - BR",
-  cargo: "Estagiário em Suporte Técnico",
+  cargo: "Estagiário em Sistemas de Informação",
   foco: "Desenvolvimento Web",
   objetivo: "Evoluir como desenvolvedor e construir soluções que gerem impacto 🚀",
   mentalidade: "Aprendizado contínuo e resolução de problemas"
