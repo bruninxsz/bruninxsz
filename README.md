@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno
 
-💻 Estagiário em Suporte Técnico  
+💻 Estagiário em Sistemas de Informação  
 🎓 SENAI — Análise e Desenvolvimento de Sistemas  
 🚀 Focado em desenvolvimento web e evolução constante  
 
